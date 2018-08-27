@@ -1,0 +1,26 @@
+{
+  "name": "MessageBoard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "socket.io": "^2.1.1",
+    "webpack": "^4.17.1",
+    "webpack-dev-middleware": "^3.2.0"
+  }
+}
